@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe.config
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.exe
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\bin\Debug\FlyWeightPattern.pdb
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.exe
+C:\Users\Sruthi_Avula\source\repos\FlyWeightPattern\FlyWeightPattern\obj\Debug\FlyWeightPattern.pdb

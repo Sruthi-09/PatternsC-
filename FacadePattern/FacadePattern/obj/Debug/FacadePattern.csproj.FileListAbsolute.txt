@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe.config
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.exe
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\bin\Debug\FacadePattern.pdb
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.exe
+C:\Users\Sruthi_Avula\source\repos\FacadePattern\FacadePattern\obj\Debug\FacadePattern.pdb
