@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe.config
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.exe
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\bin\Debug\TemplatePattern.pdb
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.exe
+C:\Users\Sruthi_Avula\source\repos\TemplatePattern\TemplatePattern\obj\Debug\TemplatePattern.pdb
