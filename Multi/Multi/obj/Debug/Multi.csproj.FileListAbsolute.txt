@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\bin\Debug\Multi.exe.config
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\bin\Debug\Multi.exe
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\bin\Debug\Multi.pdb
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\obj\Debug\Multi.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\obj\Debug\Multi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\obj\Debug\Multi.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\obj\Debug\Multi.exe
+C:\Users\Sruthi_Avula\source\repos\Multi\Multi\obj\Debug\Multi.pdb

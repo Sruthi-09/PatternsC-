@@ -1,0 +1,11 @@
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\bin\Debug\Multiplication1.exe.config
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\bin\Debug\Multiplication1.exe
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\bin\Debug\Multiplication1.pdb
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\bin\Debug\Demo.dll
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\bin\Debug\Demo.pdb
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.csproj.CopyComplete
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.exe
+C:\Users\Sruthi_Avula\source\repos\Multiplication1\Multiplication1\obj\Debug\Multiplication1.pdb

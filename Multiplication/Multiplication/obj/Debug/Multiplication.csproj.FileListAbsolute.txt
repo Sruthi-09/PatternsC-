@@ -1,0 +1,3 @@
+C:\Users\Sruthi_Avula\source\repos\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Multiplication\Multiplication\obj\Debug\Multiplication.csproj.CoreCompileInputs.cache

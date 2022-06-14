@@ -9,6 +9,10 @@ namespace PrototypePattern
     {
         public string Name { get; set; }
         public string Color { get; set; }
+        public Flower GetClone()
+        {
+            return (Flower)this.MemberwiseClone();
+        }
     }
     internal class Class1
     {

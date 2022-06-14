@@ -1,0 +1,15 @@
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\bin\Debug\net6.0\Multiple.exe
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\bin\Debug\net6.0\Multiple.deps.json
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\bin\Debug\net6.0\Multiple.runtimeconfig.json
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\bin\Debug\net6.0\Multiple.dll
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\bin\Debug\net6.0\Multiple.pdb
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.vbproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.AssemblyInfoInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.AssemblyInfo.vb
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.vbproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.dll
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\refint\Multiple.dll
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.pdb
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\Multiple.genruntimeconfig.cache
+C:\Users\Sruthi_Avula\source\repos\Multiple\Multiple\obj\Debug\net6.0\ref\Multiple.dll

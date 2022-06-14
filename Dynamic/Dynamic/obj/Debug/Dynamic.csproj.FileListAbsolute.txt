@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.exe.config
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.exe
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\bin\Debug\Dynamic.pdb
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.exe
+C:\Users\Sruthi_Avula\source\repos\Dynamic\Dynamic\obj\Debug\Dynamic.pdb

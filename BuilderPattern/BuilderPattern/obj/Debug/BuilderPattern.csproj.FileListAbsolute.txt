@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+C:\Users\Sruthi_Avula\source\repos\BuilderPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb

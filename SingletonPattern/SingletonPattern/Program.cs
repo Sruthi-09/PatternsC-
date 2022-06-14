@@ -6,45 +6,34 @@ using System.Threading.Tasks;
 
 namespace SingletonPattern
 {
-    public class Music
+    public class Classroom
     {
-        private static Music instance = null;
-        private string Instrument { get; set; }
-        private string Type { get; set; }
-        private Music()
+        private static Classroom instance = null;
+        private int StudentsCount{ get; set; }
+        private Classroom()
         {
-
-            Instrument = "Guitar";
-            Type = "Acoustic";
-        }
-        private static object syncLock = new object();
-
-        public static Music Instance
-        {
-            get
-            {
-                lock (syncLock)
-                {
-                    if (Music.instance == null)
-                        Music.instance = new Music();
-
-                    return Music.instance;
-                }
-            }
-        }
-
+            StudentsCount = 40;
+        }     
         public void Display()
         {
-            Console.WriteLine(Instrument);
-            Console.WriteLine(Type);
+            Console.WriteLine("Classroom contains Students with count of " + StudentsCount);
+        }
+        public static Classroom getInstance()
+        {
+            if (instance == null)
+            {
+                instance = new Classroom();
+            }
+            return instance;
+
         }
 
-    }
+    }   
     class Program
     {
         static void Main(string[] args)
         {
-            Music.Instance.Display();
+            Classroom.getInstance().Display();
 
             Console.ReadKey();
         }

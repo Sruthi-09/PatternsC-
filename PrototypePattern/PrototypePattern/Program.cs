@@ -10,18 +10,22 @@ namespace PrototypePattern
     {
         public string Name { get; set; }
         public string Color { get; set; }
+        public Flower GetClone()
+        {
+            return (Flower)this.MemberwiseClone();
+        }
     }
-    internal class Program
+    internal class Class1
     {
         static void Main(string[] args)
         {
-            Flower flo= new Flower();
+            Flower flo = new Flower();
             flo.Name = "Rose";
             flo.Color = "Pink";
-            Flower flo1 = new Flower();
+            Flower flo1 = flo;
             flo1.Name = "Tulip";
-            flo1.Color = "Red";
-            Console.WriteLine("Flower 1 \n Name: " + flo.Name + "\n Color: " + flo.Color+"\n");
+            //flo1.Color = "Red";
+            Console.WriteLine("Flower 1 \n Name: " + flo.Name + "\n Color: " + flo.Color + "\n");
             Console.WriteLine("Flower 2 \n Name: " + flo1.Name + "\n Color: " + flo1.Color);
             Console.Read();
         }

@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\bin\Debug\Virtual1.exe.config
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\bin\Debug\Virtual1.exe
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\bin\Debug\Virtual1.pdb
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\obj\Debug\Virtual1.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\obj\Debug\Virtual1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\obj\Debug\Virtual1.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\obj\Debug\Virtual1.exe
+C:\Users\Sruthi_Avula\source\repos\Virtual1\Virtual1\obj\Debug\Virtual1.pdb

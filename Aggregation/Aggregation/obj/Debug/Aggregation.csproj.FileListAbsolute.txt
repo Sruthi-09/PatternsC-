@@ -1,0 +1,8 @@
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.AssemblyReference.cache
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+C:\Users\Sruthi_Avula\source\repos\Aggregation\Aggregation\obj\Debug\Aggregation.pdb
