@@ -1,8 +1,0 @@
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe.config
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.exe
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\bin\Debug\AdapterDesignPattern.pdb
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.AssemblyReference.cache
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.SuggestedBindingRedirects.cache
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.csproj.CoreCompileInputs.cache
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.exe
-C:\Users\Sruthi_Avula\source\repos\AdapterDesignPattern\AdapterDesignPattern\obj\Debug\AdapterDesignPattern.pdb
